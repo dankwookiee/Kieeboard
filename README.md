@@ -12,6 +12,21 @@ Absolutely no guarantee is made that these models will perform as expected. Use 
 
 **Modifying Base Dimensions on Wookiee’s Keycaps Files**
 
+# Overview
+
+1. [Base dimensions](#base-dimensions)
+2. [Angle of Key Front](#angle-of-key-front)
+3. [Angle of Key Rear](#angle-of-key-rear)
+4. [Front and Rear Key Height](#front-and-rear-key-height)
+5. [Shape of Cylindrical Top, Front Sketch](#shape-of-cylindrical-top-front-sketch)
+6. [Shape of Cylindrical Top, Rear Sketch](#shape-of-cylindrical-top-rear-sketch)
+7. [Wall Thickness](#wall-thickness)
+8. [Upright Edge Fillets](#upright-edge-fillets)
+9. [Top Edge Fillet](#top-edge-fillet)
+10. [Stem Dimensions](#stem-dimensions)
+11. [Final Touches/Stabilizer Stems](#final-touchesstabilizer-stems)
+
+
 ## Base dimensions
 
 ![Base Dimension Sketch](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/model01.png)
@@ -56,7 +71,7 @@ Theoretically, this means you can make the front and rear of the keycap complete
 
 A loft between the base sketch and the lofted top profile gives the key shape. This is then shelled. The wall thickness is defined by the shell.
 
-## Upright Edge Fillets 
+## Upright Edge Fillets
 
 ![Side fillets](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/model08.png)
 
@@ -80,4 +95,4 @@ The stem shape is defined on the bottom plane, and extruded up to surface to the
 
 The stem opening is chamfered per the Vortex model these were measured from.
 
-Stems for stabilizers are spaced using linear patterns which are suppressed or activated by configuration. Key widths 2u and up have stabilizer stems, shorter key widths do not. 
+Stems for stabilizers are spaced using linear patterns which are suppressed or activated by configuration. Key widths 2u and up have stabilizer stems, shorter key widths do not.
