@@ -14,6 +14,24 @@ Each key in each pack is selectable as a configuration within the solidworks par
 
 Absolutely no guarantee is made that these models will perform as expected. Use at your own risk. Models are licensed under Creative Commons Attribution 4.0. Please redistribute and/or modify at will. Please respect the open source nature of these files, and do not use them for personal profit or commercial use. 
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Readme and Disclaimer](#)
+	- [Layout of Keys in Cherry Pack](#)
+	- [Layout of Keys in OEM Pack](#)
+	- [Base dimensions](#)
+	- [Angle of Key Front](#)
+	- [Angle of Key Rear](#)
+	- [Front and Rear Key Height](#)
+	- [Shape of Cylindrical Top, Front Sketch](#)
+	- [Shape of Cylindrical Top, Rear Sketch](#)
+	- [Wall Thickness](#)
+	- [Upright Edge Fillets](#)
+	- [Top Edge Fillet](#)
+	- [Stem Dimensions](#)
+	- [Final Touches/Stabilizer Stems](#)
+	- [Dimensions already included in configurations:](#)
+
 ## Layout of Keys in Cherry Pack
 
 ![Cherry ISO Layout](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/Cherry%20Iso%20Layout.PNG)
