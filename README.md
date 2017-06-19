@@ -6,9 +6,21 @@ Cherry Key Profiles were estimated off of Cherry Corp. datasheets.
 
 Files were made using Solidworks 2017. 
 
+This readme shows the keys available in each layout pack, and then walks through the process of modifying dimensions on original Solidworks files. 
+
+Each key in each pack is selectable as a configuration within the solidworks part file. 
+
 **No Measurement or Dimension is Guaranteed to be Accurate or Suitable.**
 
 Absolutely no guarantee is made that these models will perform as expected. Use at your own risk. Models are licensed under Creative Commons Attribution 4.0. Please redistribute and/or modify at will. Please respect the open source nature of these files, and do not use them for personal profit or commercial use. 
+
+## Layout of Keys in Cherry Pack
+
+![Cherry ISO Layout](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/Cherry%20Iso%20Layout.PNG)
+
+## Layout of Keys in OEM Pack
+
+![OEM ISO Layout](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/OEM%20Iso%20Layout.PNG)
 
 **Modifying Base Dimensions on Wookiee’s Keycaps Files**
 
@@ -81,3 +93,11 @@ The stem shape is defined on the bottom plane, and extruded up to surface to the
 The stem opening is chamfered per the Vortex model these were measured from.
 
 Stems for stabilizers are spaced using linear patterns which are suppressed or activated by configuration. Key widths 2u and up have stabilizer stems, shorter key widths do not. 
+
+## Dimensions already included in configurations:
+
+Each SLDPRT file already has configurations for 1u through 2.75u for each row in the profile set. Dimensions used in each configuration are shown in the design table (OEM and Cherry were made with the same key widths for each u). Before editing the SLDPRT file, check and see that you have selected the configuration you want. 
+
+![Design Table](https://github.com/dankwookiee/Kieeboard/blob/master/modeling%20process/Design%20Table%20for%20OEM.png)
+
+Thank you for looking! Enjoy.
