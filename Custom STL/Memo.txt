@@ -1,0 +1,1 @@
+This folder is a repository for custom keycap STLs I generate.
